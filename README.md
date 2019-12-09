@@ -1,2 +1,5 @@
-# ReactJS
-https://reactjs.org
+React ToDo app
+-----------
+npm install
+-----------
+npm start
